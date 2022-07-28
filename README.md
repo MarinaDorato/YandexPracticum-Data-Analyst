@@ -184,7 +184,7 @@
 
 Посмотреть Презентацию https://disk.yandex.ru/i/mnqTwd6aYQtK3w
 
-Посмотреть DashBoard_на сайте Tableau
+Посмотреть DashBoard_на сайте Tableau https://public.tableau.com/app/profile/marinadorato/viz/_1_16585243339370/Dashboard1?publish=yes
 
 **Библиотеки.** pandas, numpy, matplotlib, seaborn, plotly, datetime, scipy, math.
 
