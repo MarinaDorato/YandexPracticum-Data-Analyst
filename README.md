@@ -5,7 +5,7 @@
 
 **Навык:** Базовый Python
 
-https://github.com/MarinaDorato/YandexPracticum/tree/main/1.%20Яндекс.Музыка
+https://github.com/MarinaDorato/YandexPracticum-Data-Analyst/tree/main/1.%20Яндекс.Музыка
 
 **2. Предобработка данных - "Исследование надёжности заёмщиков — анализ банковских данных".** Оценка влияния семейного положения и количества детей клиента на факт погашения кредита в срок. 
 
@@ -13,7 +13,7 @@ https://github.com/MarinaDorato/YandexPracticum/tree/main/1.%20Яндекс.Му
 
 **Навыки:** предобработка данных – пропуски, корректировка типов, дубликаты, выбросы, строковые аномалии, категоризация. Анализ данных – зависимости, корреляции.
 
-https://github.com/MarinaDorato/YandexPracticum-Data-Analyst/tree/main/2.%20%20Исследование%20надёжности%20заёмщиков
+https://github.com/MarinaDorato/YandexPracticum-Data-Analyst/tree/main/2.%20%20Исследование%20надёжности%20%20заёмщиков
 
 **3. Исследовательский анализ данных - "Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости"**
 
